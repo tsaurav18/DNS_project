@@ -1,0 +1,11 @@
+[[clients]]
+id = "A"
+server = "127.0.0.1:53"
+
+[[clients]]
+id = "B"
+server = "127.0.0.1:53"
+
+[[clients]]
+id = "C"
+server = "127.0.0.1:53"
